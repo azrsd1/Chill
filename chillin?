@@ -16,18 +16,13 @@
 	background-color: white;
 }
 
-.window-right-middle-border {
+.window-right-left-border {
     position: absolute;
 	margin-left:750px;
 	height:897px;
 	width:10px;
 	background-color: white;
+	box-shadow: 500px 0px white;
 }
 
-.window-left-middle-border {
-	position: absolute;
-	margin-left:250px;
-	height:897px;
-	width:10px;
-	background-color: white;
-}
+
