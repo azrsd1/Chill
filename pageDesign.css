@@ -1,6 +1,6 @@
 .window {
 	position: relative;
-	margin-left: 10cm;
+	margin: 0 auto;
 	margin-top: 1cm;
 	height:900px;
 	width:1000px;
