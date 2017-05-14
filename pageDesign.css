@@ -25,4 +25,12 @@
 	box-shadow: 500px 0px white;
 }
 
-
+.window-horizontal-border {
+	position: absolute;
+	margin-top:230px;
+	height:10px;
+	width:1000px;
+	background-color: white;
+	box-shadow: 0px 200px white,
+	0px 400px white;
+}
