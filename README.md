@@ -1,2 +1,2 @@
 # chill
-under construction web page displaying music playlist 
+under construction pixel-art web page displaying music playlist 
