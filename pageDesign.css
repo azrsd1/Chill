@@ -1,36 +1,20 @@
 .window {
 	position: relative;
-	margin: 0 auto;
-	margin-top: 1cm;
-	height:900px;
-	width:1000px;
-	background-color: #FCF3CF;
-	border: 20px outset white;
+	height:800px;
+	width:1220px;
+	background-color: #fefec4;
+	border-right: medium solid white;
+	border-bottom: medium solid white;
+	border-width: 40px;
+	border-bottom-width: 80px;
 }
 
 .window-middle-border {
     position: absolute;
-	margin-left:500px;
-	height:897px;
-	width:20px;
+	margin-left:5cm;
+	height:800px;
+	width:40px;
 	background-color: white;
 }
 
-.window-right-left-border {
-    position: absolute;
-	margin-left:750px;
-	height:897px;
-	width:10px;
-	background-color: white;
-	box-shadow: 500px 0px white;
-}
 
-.window-horizontal-border {
-	position: absolute;
-	margin-top:230px;
-	height:10px;
-	width:1000px;
-	background-color: white;
-	box-shadow: 0px 200px white,
-	0px 400px white;
-}
