@@ -17,4 +17,28 @@
 	background-color: white;
 }
 
+.middle-border-div {
+	position: absolute;
+    margin-left:45px;
+	height:880px;
+	width:6px;
+	background-color: #fefe66;
+}
 
+.right-window-border {
+    position: absolute;
+	margin-left:725px;
+	height:800px;
+	width:30px;
+	background-color: white;
+	
+}
+
+.right-window-horizontal-border {
+    position: absolute;
+	margin-top:4cm;
+	height:30px;
+	width:1220px;
+	background-color: white;
+	
+}
