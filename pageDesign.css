@@ -1,7 +1,7 @@
 .window {
 	position: relative;
-	height:800px;
-	width:1220px;
+	height:650px;
+	width:1210px;
 	background-color: #fefec4;
 	border-right: medium solid white;
 	border-bottom: medium solid white;
@@ -12,15 +12,15 @@
 .window-middle-border {
     position: absolute;
 	margin-left:5cm;
-	height:800px;
-	width:40px;
+	height:700px;
+	width:100px;
 	background-color: white;
 }
 
 .middle-border-div {
 	position: absolute;
     margin-left:45px;
-	height:880px;
+	height:730px;
 	width:6px;
 	background-color: #fefe66;
 }
@@ -28,7 +28,7 @@
 .right-window-border {
     position: absolute;
 	margin-left:725px;
-	height:800px;
+	height:700px;
 	width:30px;
 	background-color: white;
 	
@@ -51,3 +51,28 @@
 .t5 {width:1405px;height: 30px;background-color: white;}
 .t6 {width:1434px;height: 30px;background-color: white;}
 .t7 {width:1463px;height: 400px;background-color: #fe80fe;}
+
+.curtain {
+	width:230px;
+	height: 30px;
+	background-color: #FA8072;
+	margin-left:1100px; 
+	position:absolute;
+	box-shadow: 30px 30px #FA8072,
+	60px 60px #FA8072,
+	60px 90px #FA8072,
+	90px 120px #FA8072,
+	90px 150px #FA8072,
+	90px 180px #FA8072,
+	90px 210px #FA8072,
+	120px 240px #FA8072,
+	120px 270px #FA8072,
+	120px 300px #FA8072,
+	120px 330px #FA8072,
+	120px 360px #FA8072,
+	120px 390px #FA8072,
+	120px 420px #FA8072,
+	150px 450px #FA8072,
+	150px 480px #FA8072,
+	150px 510px #FA8072;
+	}
