@@ -89,3 +89,12 @@
 	150px 660px #FA8072,
 	150px 690px #FA8072;
 	}
+
+.curtain-background {
+position:absolute;
+    width:250px;
+	height:1284px;
+	background-color: #FA8072;
+	margin-left:1250px; 
+	z-index:-1;
+}
