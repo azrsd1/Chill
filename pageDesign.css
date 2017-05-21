@@ -1,5 +1,12 @@
+.container {
+ position: relative;
+ height:1400px;
+ width:1747px;
+
+}
+
 .window {
-	position: relative;
+	position: absolute;
 	height:650px;
 	width:1210px;
 	background-color: #fefec4;
@@ -44,13 +51,13 @@
 }
 
 
-.t1 {width:1289px;height: 30px;background-color: white;border-top:medium solid #fe80fe}
-.t2 {width:1318px;height: 30px;background-color: white;}
-.t3 {width:1347px;height: 30px;background-color: white;}
-.t4 {width:1376px;height: 30px;background-color: white;}
-.t5 {width:1405px;height: 30px;background-color: white;}
-.t6 {width:1434px;height: 30px;background-color: white;}
-.t7 {width:1463px;height: 400px;background-color: #fe80fe;}
+.t1 {width:1289px;height: 30px;background-color: white;bottom: 637px;position: absolute;border-top:medium solid #fe80fe}
+.t2 {width:1318px;height: 30px;background-color: white;position: absolute;bottom: 607px;}
+.t3 {width:1347px;height: 30px;background-color: white;position: absolute;bottom: 577px;}
+.t4 {width:1376px;height: 30px;background-color: white;position: absolute;bottom: 547px;}
+.t5 {width:1405px;height: 30px;background-color: white;position: absolute;bottom: 517px;}
+.t6 {width:1434px;height: 30px;background-color: white;position: absolute;bottom: 487px;}
+.t7 {width:1463px;height: 400px;background-color: #fe80fe;position: absolute;bottom: 87px;}
 
 .curtain {
 	width:230px;
