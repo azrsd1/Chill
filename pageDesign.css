@@ -8,7 +8,7 @@
 .window {
 	position: absolute;
 	height:650px;
-	width:1210px;
+	width:1235px;
 	background-color: #fefec4;
 	border-right: medium solid white;
 	border-bottom: medium solid white;
@@ -45,7 +45,7 @@
     position: absolute;
 	margin-top:4cm;
 	height:30px;
-	width:1220px;
+	width:1235px;
 	background-color: white;
 	
 }
@@ -91,10 +91,10 @@
 	}
 
 .curtain-background {
-position:absolute;
-    width:250px;
-	height:1284px;
+	position:absolute;
+    	width:250px;
+	height:1313px;
 	background-color: #FA8072;
-	margin-left:1250px; 
+	margin-left:1275px; 
 	z-index:-1;
 }
