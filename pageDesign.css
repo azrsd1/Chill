@@ -14,11 +14,13 @@
 	border-bottom: medium solid white;
 	border-width: 40px;
 	border-bottom-width: 80px;
+	overflow: hidden;
+	float:left;
 }
 
 .window-middle-border {
     position: absolute;
-	margin-left:5cm;
+	margin-left:4.1cm;
 	height:700px;
 	width:100px;
 	background-color: white;
@@ -26,7 +28,7 @@
 
 .middle-border-div {
 	position: absolute;
-    margin-left:45px;
+	margin-left:45px;
 	height:730px;
 	width:6px;
 	background-color: #fefe66;
@@ -50,8 +52,32 @@
 	
 }
 
+.inner-border-1 {
+	width: 20px;
+	height: 650px;
+	background-color: #ffdaa8;
+	margin-left:1236px;
+	float:right;
+	box-shadow: -500px 0px #ffdaa8,
+	-1075px 0px #ffdaa8;
+}
 
-.t1 {width:1289px;height: 30px;background-color: white;bottom: 637px;position: absolute;border-top:medium solid #fe80fe}
+.inner-border-2{
+	width: 525px;
+	height: 20px;
+	background-color: #ffdaa8;
+	margin-left:732px;
+	float:none;
+	margin-top:630px;
+	box-shadow: -525px 0px #ffdaa8,
+	0px -490px #ffdaa8,
+	-525px -490px #ffdaa8,
+	-900px 0px #ffdaa8,
+	-900px -490px #ffdaa8;
+}
+
+
+.t1 {width:1289px;height: 30px;background-color: white;bottom: 637px;position: absolute;border-top:medium solid #d1bc77}
 .t2 {width:1318px;height: 30px;background-color: white;position: absolute;bottom: 607px;}
 .t3 {width:1347px;height: 30px;background-color: white;position: absolute;bottom: 577px;}
 .t4 {width:1376px;height: 30px;background-color: white;position: absolute;bottom: 547px;}
