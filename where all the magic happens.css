@@ -9,7 +9,7 @@
 	position: absolute;
 	height:650px;
 	width:1235px;
-	background-color: #3550ff;
+	background-color: #5b9aff;
 	border-right: medium solid white;
 	border-bottom: medium solid white;
 	border-width: 40px;
@@ -31,7 +31,7 @@
 	margin-left:45px;
 	height:730px;
 	width:6px;
-	background-color: #fefe66;
+	background-color: #d1bc77;
 }
 
 .right-window-border {
@@ -55,25 +55,25 @@
 .inner-border-1 {
 	width: 20px;
 	height: 650px;
-	background-color: #ffdaa8;
+	background-color: #c7d0d6;
 	margin-left:1236px;
 	float:right;
-	box-shadow: -500px 0px #ffdaa8,
-	-1075px 0px #ffdaa8;
+	box-shadow: -500px 0px #c7d0d6,
+	-1075px 0px #c7d0d6;
 }
 
 .inner-border-2{
 	width: 525px;
 	height: 20px;
-	background-color: #ffdaa8;
+	background-color: #c7d0d6;
 	margin-left:732px;
 	float:none;
 	margin-top:630px;
-	box-shadow: -525px 0px #ffdaa8,
-	0px -490px #ffdaa8,
-	-525px -490px #ffdaa8,
-	-900px 0px #ffdaa8,
-	-900px -490px #ffdaa8;
+	box-shadow: -525px 0px #c7d0d6,
+	0px -490px #c7d0d6,
+	-525px -490px #c7d0d6,
+	-900px 0px #c7d0d6,
+	-900px -490px #c7d0d6;
 }
 
 
@@ -83,7 +83,7 @@
 .t4 {width:1376px;height: 30px;background-color: white;position: absolute;bottom: 547px;}
 .t5 {width:1405px;height: 30px;background-color: white;position: absolute;bottom: 517px;}
 .t6 {width:1434px;height: 30px;background-color: white;position: absolute;bottom: 487px;}
-.t7 {width:1463px;height: 400px;background-color: #ffdaa8;position: absolute;bottom: 87px;}
+.t7 {width:1463px;height: 400px;background-color: #c7d0d6;position: absolute;bottom: 87px;}
 
 .curtain {
 	width:230px;
