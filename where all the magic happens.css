@@ -125,6 +125,63 @@
 	z-index:-1;
 }
 
+.sea {
+	width: 1235px;
+	height: 250px;
+	background-color: #355c7d;
+	float:none;
+	margin-top:400px;	
+}
+
+.land {
+	width: 1000px;
+	height: 6px;
+	background-color:#ffdaa8;
+	color: #ffdaa8;
+	float:none;
+	margin-left:850px;
+	box-shadow: -6px 6px,
+	-18px 12px,
+	-30px 18px,
+	-48px 24px,
+	-66px 30px,
+	-60px 36px,
+	-48px 42px,
+	-54px 48px, 
+	-60px 54px,
+	-66px 60px,
+	-78px 66px,
+	-90px 72px,
+	-108px 78px,
+	-126px 84px,
+	-144px 90px,
+	-168px 96px,
+	-192px 102px,
+	-216px 108px,
+	-240px 114px,
+	-258px 120px,
+	-270px 126px,
+	-294px 132px,
+	-318px 138px,
+	-342px 144px,
+	-366px 150px,
+	-390px 156px,
+	-414px 162px,
+	-438px 168px,
+	-462px 174px,
+	-486px 180px,
+	-504px 186px,
+	-522px 192px,
+	-534px 198px,
+	-546px 204px,
+	-558px 210px,
+	-570px 216px,
+	-576px 222px,
+	-582px 228px,
+	-588px 234px,
+	-594px 240px,
+	-600px 246px;
+}
 
 .cloud {
 	width: 6px;
