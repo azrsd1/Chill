@@ -183,6 +183,42 @@
 	-600px 246px;
 }
 
+.land-details {
+	width: 6px;
+	height: 6px;
+	background-color:#ffdaa8;
+	color: #ffdaa8;
+	float:none;
+	margin-left:870px;
+	box-shadow: 
+	-12px 12px,
+	6px 12px,
+	-12px 102px,
+	12px 102px,
+	-24px 108px,
+	24px 120px,
+	-6px 126px,
+	102px 48px,
+	216px 54px,
+	192px 60px,
+	216px 198px,
+	204px 204px,
+	294px 192px,
+	294px 192px,
+	240px 60px,
+	-204px 198px,
+	294px 192px,
+	-216px 192px,
+	-228px 198px,
+	-420px 198px,
+	-432px 192px,
+	-462px 192px,
+	-540px 198px,
+	-522px 186px,
+	-474px 180px,
+	-216px 132px,
+	-234px 120px;
+}
 .cloud {
 	width: 6px;
 	height: 6px;
