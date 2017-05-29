@@ -9,7 +9,7 @@
 	position: absolute;
 	height:650px;
 	width:1235px;
-	background-color: #5b9aff;
+	background-color: #ffef68;
 	border-right: medium solid white;
 	border-bottom: medium solid white;
 	border-width: 40px;
@@ -88,39 +88,40 @@
 .curtain {
 	width:230px;
 	height: 30px;
-	background-color: #FA8072;
+	background-color: #9E8AAF;
+	color: #9E8AAF;
 	margin-left:1100px; 
 	position:absolute;
-	box-shadow: 30px 30px #FA8072,
-	60px 60px #FA8072,
-	60px 90px #FA8072,
-	90px 120px #FA8072,
-	90px 150px #FA8072,
-	90px 180px #FA8072,
-	90px 210px #FA8072,
-	120px 240px #FA8072,
-	120px 270px #FA8072,
-	120px 300px #FA8072,
-	120px 330px #FA8072,
-	120px 360px #FA8072,
-	120px 390px #FA8072,
-	120px 420px #FA8072,
-	150px 450px #FA8072,
-	150px 480px #FA8072,
-	150px 510px #FA8072,
-	150px 540px #FA8072,
-	150px 570px #FA8072,
-	150px 600px #FA8072,
-	150px 630px #FA8072,
-	150px 660px #FA8072,
-	150px 690px #FA8072;
+	box-shadow: 30px 30px ,
+	60px 60px ,
+	60px 90px ,
+	90px 120px ,
+	90px 150px ,
+	90px 180px ,
+	90px 210px ,
+	120px 240px ,
+	120px 270px ,
+	120px 300px ,
+	120px 330px ,
+	120px 360px ,
+	120px 390px ,
+	120px 420px ,
+	150px 450px ,
+	150px 480px ,
+	150px 510px ,
+	150px 540px ,
+	150px 570px ,
+	150px 600px ,
+	150px 630px ,
+	150px 660px ,
+	150px 690px ;
 	}
 
 .curtain-background {
 	position:absolute;
     	width:250px;
 	height:1313px;
-	background-color: #FA8072;
+	background-color: #9E8AAF;
 	margin-left:1275px; 
 	z-index:-1;
 }
@@ -128,7 +129,7 @@
 .sea {
 	width: 1235px;
 	height: 250px;
-	background-color: #355c7d;
+	background-color: #72f0ff;
 	float:none;
 	margin-top:400px;	
 }
@@ -515,8 +516,8 @@
 .land {
 	width: 1000px;
 	height: 6px;
-	background-color:#ffdaa8;
-	color: #ffdaa8;
+	background-color:white;
+	color: white;
 	float:none;
 	margin-left:850px;
 	box-shadow: -6px 6px,
