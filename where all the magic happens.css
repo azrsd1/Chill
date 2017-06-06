@@ -939,6 +939,7 @@
 	position:absolute;
 	margin-left: 500px;
 	margin-top: 50px;
+	z-index:-1;
 	box-shadow: 6px 6px  ,
 	12px 12px ,
 	18px 12px ,
