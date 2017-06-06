@@ -143,6 +143,7 @@
 	background-color:#FA6EAB;
 	color:#FA6EAB;
 	margin-top:60px;
+	z-index:-1;
 	box-shadow: 12px 0px, 24px 0px, 36px 0px, 48px 0px, 60px 0px, 72px 0px, 84px 0px, 96px 0px, 108px 0px, 120px 0px, 132px 0px, 144px 0px, 156px 0px, 168px 0px,
 	180px 0px,
 	192px 0px,
@@ -434,6 +435,13 @@
 	1152px 24px,
 	1176px 24px,
 	1200px 24px;
+}
+
+.dithering-rotate {
+    -ms-transform: rotate(180deg); 
+    -webkit-transform: rotate(180deg); 
+    transform: rotate(180deg);
+    margin-left:1200px
 }
 
 .tree {
