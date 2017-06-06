@@ -139,6 +139,7 @@
 	width:1235px;
 	background-color:#FA6EAB;
 	float:none;
+	z-index:-1;
 }
 
 .sky-dithering {
