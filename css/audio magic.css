@@ -1,0 +1,12 @@
+#pbutton {
+height: 55px; 
+width:45px;
+}
+
+.play {
+background: url('play.png') no-repeat; 
+}
+		
+.pause {
+background: url('pause.png') no-repeat;
+}
