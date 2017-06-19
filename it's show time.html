@@ -6,8 +6,8 @@
   <link rel="stylesheet" href="where all the magic happens.css">
 </head>
 <body style="background-color:#3E4174;">
-	<div class="container">
-		<div class="window" style="z-index:-1;">
+	<div id="container">
+		<div id="window" style="z-index:-1;">
 			<div class="sky"></div>
 			<div class="sky" style="background-color:#FE9A91;margin-top:60px;"></div>
 			<div class="sky" style="background-color:#FBB556;margin-top:120px;"></div>
@@ -16,16 +16,16 @@
 			<div class="sky-dithering" style="background-color:#FE9A91;color:#FE9A91;margin-top:120px;"></div>
 			<div class="sky-dithering dithering-rotate" style="background-color:#FE9A91;color:#FE9A91;"></div>
 			<div class="sky-dithering"></div>
-			<div class="inner-border-1"></div>
-			<div class="inner-border-2"></div>
-			<div class="right-window-border"></div>
-			<div class="right-window-horizontal-border"></div>
-			<div class="window-middle-border"></div> 
+			<div id="inner-border-1"></div>
+			<div id="inner-border-2"></div>
+			<div id="right-window-border"></div>
+			<div id="right-window-horizontal-border"></div>
+			<div id="window-middle-border"></div> 
 			<div class="cloud"></div>
 			<div class="cloud" style="color:#efefef; margin-top:60px;"></div>
 			<div class="cloud" style="margin-left:1300px"></div>
 			<div class="cloud" style="color:#efefef; margin-top:60px;margin-left:1300px"></div>
-			<div class="sea" >
+			<div id="sea" >
 				<div class="land"></div>
 				<div class="land" style="color:#ffdaa8; background-color:#ffdaa8;"></div>
 				<div class="land" style="color:#f2b96f;background-color:#f2b96f;"></div>
@@ -61,5 +61,6 @@
 	 <audio id="music">
   <source type="audio/mp3" src="">
  </audio>
+	<script type="text/javascript" src="audio functioning.js"></script>
 </body>
 </html>
