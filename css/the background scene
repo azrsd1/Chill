@@ -1,5 +1,6 @@
 #container {
  position: relative;
+ margin-left:0px;
  height:1400px;
  width:1747px;
 
@@ -32,7 +33,7 @@
 	margin-left:45px;
 	height:730px;
 	width:6px;
-	background-color: #d1bc77;
+	background-color: black;
 }
 
 #right-window-border {
@@ -75,7 +76,6 @@
 	background-color: #FC9E9C;
 	color:#FC9E9C;
 	margin-left:732px;
-	float:none;
 	z-index:1;
 	margin-top:635px;
 	box-shadow: -525px 0px,
@@ -128,8 +128,8 @@
 .curtain {
 	width:230px;
 	height: 30px;
-	background-color: #9E8AAF;
-	color: #9E8AAF;
+	background-color: ##aa0b0b;
+	color: ##aa0b0b;
 	margin-left:1100px; 
 	position:absolute;
 	box-shadow: 30px 30px ,
@@ -161,7 +161,7 @@
 	position:absolute;
     	width:250px;
 	height:1313px;
-	background-color: #9E8AAF;
+	background-color: ##aa0b0b;
 	margin-left:1275px; 
 	z-index:-1;
 }
