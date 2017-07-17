@@ -1,6 +1,6 @@
 #pbutton {
-height: 50px; 
-width:41px;
+height: 54px; 
+width:44px;
 margin-top:-624px;
 margin-left:789px; 
 position:absolute;
@@ -23,11 +23,11 @@ position:absolute;
 }
 
 .play {
-background: url('play.png') no-repeat; 
+background: url('img/play.png') no-repeat; 
 }
 		
 .pause {
-background: url('pause.png') no-repeat;
+background: url('img/pause.png') no-repeat;
 }
 
 .next {
