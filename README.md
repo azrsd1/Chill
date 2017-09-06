@@ -17,29 +17,29 @@ the music list:
 you can check artists websites here:
 
 eery <br>
-bandcamp https://eery.bandcamp.com
+bandcamp https://eery.bandcamp.com <br>
 soundcloud https://soundcloud.com/eery
 
-bunko stew
-bandcamp https://bunkostew.bandcamp.com
+bunko stew <br>
+bandcamp https://bunkostew.bandcamp.com <br>
 soundcloud https://soundcloud.com/bunkostew
 
-elijah
-bandcamp https://elijahwho.bandcamp.com
+elijah <br>
+bandcamp https://elijahwho.bandcamp.com <br>
 soundcloud https://soundcloud.com/elijahwho
 
-saib.
-bandcamp https://saibeats.bandcamp.com
+saib. <br>
+bandcamp https://saibeats.bandcamp.com <br>
 soundcloud https://soundcloud.com/saib_eats
 
-nohidea
-bandcamp https://nohidea.bandcamp.com
+nohidea <br>
+bandcamp https://nohidea.bandcamp.com <br>
 soundcloud https://soundcloud.com/nohidea
 
-atlas
-bandcamp https://rapperatlas.bandcamp.com
+atlas <br>
+bandcamp https://rapperatlas.bandcamp.com <br>
 soundcloud https://soundcloud.com/atlas
 
-potsu
-bandcamp https://potsu.bandcamp.com
+potsu <br>
+bandcamp https://potsu.bandcamp.com <br>
 soundcloud https://soundcloud.com/potsupotsu
