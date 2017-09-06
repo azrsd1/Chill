@@ -94,7 +94,8 @@
 		<div><button id="pbutton" class="play" onclick="playAudio();"></button></div>
 		<div><button id="nbutton" class="next" onclick="playNext();"></button></div>
 		<div><button id="prebutton" class="pre"></button></div> 
-		<div id="play-text"></div>
+		<div id="pt"><p>play &#9658 </p></div>
+		<marquee scrollamount="38" behavior="scroll" direction="left" onmouseover="this.setAttribute('scrollamount',0);" onmouseout="this.setAttribute('scrollamount',38);"><p id="artist-name"></p></marquee>
 		<div style="position:fixed;margin-left:1060px;margin-top:-1335px;">
 			<img src="img/clock/dg8.png" name="hr1">
 			<img src="img/clock/dg8.png" name="hr2">
@@ -108,7 +109,7 @@
 		</div>
 	</div>
 	 <audio id="music">
-  <source type="audio/mp3" src="">
+  <source type="audio/mp3" src="combined tracks.mp3">
  </audio>
 	<script type="text/javascript" src="audio functioning.js"></script>
 	<script type="text/javascript" src="clock.js"></script>
