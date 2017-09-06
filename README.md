@@ -16,7 +16,7 @@ the music list:
 
 you can check artists websites here:
 
-eery
+eery <br>
 bandcamp https://eery.bandcamp.com
 soundcloud https://soundcloud.com/eery
 
