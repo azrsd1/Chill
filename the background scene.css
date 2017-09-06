@@ -1784,8 +1784,9 @@ marquee {
 	margin-left:-150px;
 	height:200px;
 	width:1900px;
-    position: fixed;
-    top: 0;
+    	position: fixed;
+    	top: 0;
+	white-space:nowrap;
 }
 
 @font-face {
