@@ -6,6 +6,7 @@ function playAudio() {
 		pbutton.className = "";
 		pbutton.className = "pause";
 		document.getElementById('radio').src='img/radioOn.gif';
+		document.getElementById('pt').innerHTML = 'play &#9658';
 		if(music.currentTime >= 0 && music.currentTime < 118){
 			document.getElementById('artist-name').innerHTML = 'eery - her';}
 		else if(music.currentTime > 118 && music.currentTime < 270){document.getElementById('artist-name').innerHTML = 'Bunko Stew - Hide The Pain';}
@@ -20,6 +21,7 @@ function playAudio() {
 		pbutton.className = "";
 		pbutton.className = "play";
 		document.getElementById('radio').src='img/radioOff.png';
+		document.getElementById('pt').innerHTML = 'pause ||';
 	}
 }
 
