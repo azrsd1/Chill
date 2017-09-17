@@ -1767,7 +1767,8 @@ box-shadow: 170px 0px #DFCDAC, 180px 0px #DFCDAC, 190px 0px #DFCDAC, 200px 0px #
 
 #pt {
 	position: fixed;
-	 margin-top:0px;
+	 margin-top:112px;
+	 margin-left:90px;
 	 top:0;
 }
 p {
@@ -1783,7 +1784,7 @@ marquee {
 	margin-top:890px;
 	margin-left:-150px;
 	height:200px;
-	width:1900px;
+	width:1300px;
     	position: fixed;
     	top: 0;
 	white-space:nowrap;
