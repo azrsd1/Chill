@@ -14,7 +14,7 @@ the music list:
 7. potsu - Im closing my eyes
 8. eery - off-white
 
-you can check artists websites here:
+you can check music artists websites here:
 
 eery <br>
 bandcamp https://eery.bandcamp.com <br>
